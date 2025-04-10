@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>INFORMACIÓN DE CONTACTO</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li class="nav-item">
+                <a href="#" title="MI PRIMERA PAGINA">INFORMACIÓN DE CONTACTO</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://youtu.be/dQw4w9WgXcQ?si=-jhqvhRWYpIwikJX" title="INFORMACIÓN DE CONTACTO">
+                    INFORMACIÓN DE CONTACTO
+                </a>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>
